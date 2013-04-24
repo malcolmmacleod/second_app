@@ -1,2 +1,1 @@
-== Ruby on rails first tutorial
-= Some markdown
+Ruby on rails first tutorial
